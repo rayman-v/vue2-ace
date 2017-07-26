@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dhenkes/vue2-ace.git"
+    "url": "git+https://github.com/rayman-v/vue2-ace.git"
   },
-  "author": "dhenkes",
+  "author": "rayman-v",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dhenkes/vue2-ace/issues"
+    "url": "https://github.com/rayman-v/vue2-ace/issues"
   },
-  "homepage": "https://github.com/dhenkes/vue2-ace#readme",
+  "homepage": "https://github.com/rayman-v/vue2-ace#readme",
   "dependencies": {
     "brace": "^0.10.0"
   }
