@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dhenkes/vue2-ace#readme",
   "dependencies": {
-    "brace": "^0.8.0"
+    "brace": "^0.10.0"
   }
 }
